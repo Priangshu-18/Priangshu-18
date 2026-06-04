@@ -79,16 +79,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priangshu-18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priangshu-18&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Priangshu-18&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
